@@ -7,5 +7,5 @@ Manual Switch Controlled by Alexa - Light and Fan Speed Control
 3. RF Transmitter FS1000A (Fan speed control)
 
 ## Circuit Diagram
-<img src="https://github.com/dijin123/IoT-ManualSwitchWithAlaxa/blob/main/4RelayWithSwitch_bb.png" width=60%>
+<img src="" width=60%>
 
