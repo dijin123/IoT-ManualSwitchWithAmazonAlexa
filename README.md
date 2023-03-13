@@ -1,5 +1,5 @@
 # IoT-ManualSwitchWithAlaxa
-Manual Switch Controlled by Alexa - Light and Fan Speed Control
+Manual Switch Controlled by Amazon Alexa - Light and Fan Speed Control
 
 ## Componet List :
 1. NODEMCU ESP8266 with Wifi Dev Board
