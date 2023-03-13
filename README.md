@@ -1,4 +1,4 @@
-# IoT-ManualSwitchWithAmazonAlexa
+# IoT-ManualSwitchWithAmazonAlexa - Home Automation 
 Manual Switch Controlled by Amazon Alexa - Light and Fan Speed Control
 
 ## Componet List :
